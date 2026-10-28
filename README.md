@@ -1,4 +1,4 @@
-![Wei (Phoebe) He](assets/banner.svg)
+![Wei (Phoebe) He](banner.svg)
 
 I've spent 7+ years designing training for people who do real, high-volume work: customer service agents, escalation specialists, warehouse teams, sales reps. Before that, I taught for 5 years. In the past year I started building the tools too. I've made four AI agents and an app for instructional designers, and I'm now building my own adaptive learning projects in Python.
 My question is always the same: **did people actually perform better afterward?**

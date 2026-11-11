@@ -1,6 +1,6 @@
 ![Wei (Phoebe) He](banner.svg)
 
-I've spent 7+ years designing training for people who do real, high-volume work: customer service agents, escalation specialists, warehouse teams, sales reps. Before that, I taught for 5 years. In the past year I started building the tools too. I've made four AI agents and an app for instructional designers, and I'm now building my own adaptive learning projects in Python.
+I've spent 7+ years designing training for people who do real, high-volume work: customer service agents, escalation specialists, warehouse teams, sales reps. Before that, I taught for 5 years. In the past year I started building the tools too. I've built AI agents, a multi-agent QA system, and an app for instructional designers, and I'm now building my own adaptive learning projects in Python.
 My question is always the same: **did people actually perform better afterward?**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -15,9 +15,9 @@ My question is always the same: **did people actually perform better afterward?*
 
 **[AI Course Builder](https://github.com/yipenyezi/ai-course-builder)** — an AI-assisted instructional design workflow, with the designer kept in control
 
-Paste in source material, get a structured storyboard, review and approve it, then generate an interactive HTML learning experience. The working prototype (Streamlit) already handles PDF/DOCX extraction, editable objectives and assessments, version history, and explicit ID approval before anything is built. Next on the roadmap: a needs-analysis step that asks *whether training is even the right fix* before designing a course, and configurable AI role-play for practice.
+Paste in source material, get a structured storyboard, review and approve it, then generate an interactive HTML learning experience. The working prototype (Streamlit) runs on a mock generator for now, so it works without an API key, and already handles PDF/DOCX extraction, editable objectives and assessments, version history, and explicit ID approval before anything is built. Next on the roadmap: a needs-analysis step that asks *whether training is even the right fix* before designing a course, and configurable AI role-play for practice.
 
-**Adaptive Learning Companion** — AI literacy practice that adapts to each learner *(in progress)*
+**Adaptive Learning Companion** — AI literacy practice designed to adapt to each learner *(in progress)*
 
 An 11-skill competency map, an item bank tagged by objective and common misconception, content validation, and an event log that records every learner response. Mastery modeling and an AI tutor come next.
 

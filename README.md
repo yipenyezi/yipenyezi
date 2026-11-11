@@ -24,9 +24,8 @@ An 11-skill competency map, an item bank tagged by objective and common misconce
 ---
 
 ### What I've shipped at work
-
-- **Four AI agents for course production**: a storyboarding agent and an HTML/simulation agent are live with real usage; a source-to-Markdown converter and a course QA agent are in internal testing.
-- **Escalation specialist curriculum**: a controlled pilot showed the new program took **one week less** and still matched the old one on QA and customer satisfaction.
+- **AI tools for course production**: a storyboarding agent and an HTML/simulation agent are live with real usage. A source-to-Markdown converter and a multi-agent course QA system (three agents for writing and formatting, compliance and terminology, and term-base validation, with one consolidated report and flags for human review) are in internal testing.
+- **Escalation specialist curriculum**: a controlled pilot cut training from four weeks to three, with quality scores on par and first contact resolution higher than the control group.
 
 ---
 

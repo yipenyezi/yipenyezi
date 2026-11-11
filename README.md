@@ -43,6 +43,6 @@ An 11-skill competency map, an item bank tagged by objective and common misconce
 ### Find me
 
 📧 [pl5980614@gmail.com](mailto:pl5980614@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+💼 [LinkedIn](https://www.linkedin.com/in/wei-phoebe-he-24b89468)
 
 Open to roles in AI enablement, learning experience design, and sales enablement.
